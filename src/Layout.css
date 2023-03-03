@@ -1,0 +1,10 @@
+.navbar {
+    background-color: lightgrey;
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 1.25em;
+}
+
+.link {
+    margin: 2rem;
+}
